@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 <!--
 **Zakariah-S/Zakariah-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Zak, and I'm a current Physics PhD student at NYU.
+Check out the other repositories on my profile to see some of the past work I've done!
