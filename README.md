@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Zak, and I'm a current Physics PhD student at NYU.
-Check out the other repositories on my profile to see some of the past work I've done!
+Check out the other repositories on my profile to see some of my past work!
